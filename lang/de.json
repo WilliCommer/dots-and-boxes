@@ -1,0 +1,54 @@
+{
+  "welcome":            "\n\nWillkommen zum 'Dots And Boxes' Spiel",
+  "goodturn":           "Guter Zug %s !",
+  "completeturn":       "Super %s ! Du hast ein Feld und bist nochmal dran.",
+  "badturn":            "Das ist kein gültiger Zug !",
+  "computerturn":       "Mein Zug %s",
+  "gameover":           "Das Spiel ist zu Ende",
+  "userwins":           "Du hast gewonnen !",
+  "computerwins":       "Ich hab gewonnen !",
+  "nobodywins":         "Das Spiel ist unentschieden !",
+  "scores":             "Punkte:  Du: %s  Ich: %s",
+  "bye":                "Auf Wiedersehen",
+
+  "main": {
+    "title":            "Was geht ?",
+    "play":             "Neues Spiel starten",
+    "play_k":           "N",
+    "size":             "Brettgröße ändern",
+    "size_k":           "G",
+    "level":            "Level ändern",
+    "level_k":          "L",
+    "exit":             "Programm beenden",
+    "exit_k":           "E"
+  },
+  
+  "size": {
+    "title":            "Gib eine Zahl ein für die neue Brettgröße.",
+    "info":             "Brettgröße: %sx%s",
+    "fail":             " Hinweis: gib eine Nummer zwischen 2 und 9 ein oder Leer zum abbrechen"
+  },
+  
+  "level": {
+    "title":            "Gib den Level ein (0,1 oder 2).",
+    "info":             "Level ist %s",
+    "dummy":            "dumm",
+    "normal":           "normal",
+    "good":             "gut"
+  },
+  
+  "userplay": {
+    "title":            "Du bist dran. ",
+    "show":             "Brett anzeigen" ,
+    "show_k":           "B" ,
+    "undo":             "Letzter Zug rückgänig" ,
+    "undo_k":           "R" ,
+    "exit":             "Spiel beenden",
+    "exit_k":           "E",
+    "help1":            "Gib die Koordinaten des Feldes und die Seite ein.\nDie Koordinate des linken oberen Felds ist 00  (x=0 y=0).\nDie des rechten untersten Feldes hängt von der Brettgröße ab. \nBei einem 4 x 4 Brett ist es 33\nDie Seiten sind 'left', 'top', 'right', 'bottom'.\n",
+    "help2":            "Nur der Anfangsbuchstabe muss eingegeben werden.\n00t  ist die obere Linie des rechten oberen Feldes\n01t  ist die obere Linie auf dem Feld ganz links in der zweiten Reihe\nEs ist die selbe Linie wie 00b, die untere Linie im Feld links oben.\n",
+    "help3":            "",
+    "help4":            "\nDu kannst auch eine dieser Befehle eingeben:\n"
+  }
+  
+}

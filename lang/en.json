@@ -1,0 +1,53 @@
+{
+  "welcome":            "\n\nWelcome to the 'Dots And Boxes' game",
+  "goodturn":           "Good turn %s !",
+  "completeturn":       "Super %s ! you got a box and play again.",
+  "badturn":            "This turn is not possible!",
+  "computerturn":       "My turn %s",
+  "gameover":           "The game is over",
+  "userwins":           "You have won !",
+  "computerwins":       "I have won !",
+  "nobodywins":         "The game is a draw !",
+  "scores":             "Scores:  You: %s  Me: %s",
+  "bye":                "Goodbye",
+  
+  "main": {
+    "title":            "What to do ?",
+    "play":             "Start a new game",
+    "play_k":           "N",
+    "size":             "Change board size",
+    "size_k":           "S",
+    "level":            "Change game level",
+    "level_k":          "L",
+    "exit":             "Exit program",
+    "exit_k":           "E"
+  },
+  
+  "size": {
+    "title":            "Enter a number to change the boad size.",
+    "info":             "Board size is %sx%s.",
+    "fail":             " Hint: enter a number between 2 and 9, on empty to quit"
+  },
+  
+  "level": {
+    "title":            "Enter 0,1 or 2 to change the level.",
+    "info":             "Level is %s",
+    "dummy":            "dummy",
+    "normal":           "normal",
+    "good":             "good"
+  },
+  
+  "userplay": {
+    "title":            "It's your turn. ",
+    "show":             "Show board" ,
+    "show_k":           "S" ,
+    "undo":             "Undo last move" ,
+    "undo_k":           "U" ,
+    "exit":             "Quit the game",
+    "exit_k":           "E",
+    "help1":             "Enter the coordinates of the field and the edge.\nCoordinate of the upper left field is 00  (x=0 y=0).\nThe lower right field depending on the board size.\nIt is 33 for a 4x4 board\nThe edges are 'left', 'top', 'right', 'bottom'.\n",
+    "help2":             "You may type the first letter only.\n00t  is the to edge of the upper left field\n01t is the top edge of left field in second row,\nit is the same as 00b the bottom of the upper left field\n",
+    "help3":             "",
+    "help4":             "\nYou can also type one of these commands:\n"
+  }
+}
