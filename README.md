@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/dots-and-boxes.svg)](https://badge.fury.io/js/dots-and-boxes)
 [![GitHub version](https://badge.fury.io/gh/willicommer%2Fdots-and-boxes.svg)](https://badge.fury.io/gh/willicommer%2Fdots-and-boxes)
-[![wcs badge](http:/familiecommer.de/files/img/author-wcs-blue.svg)](http://WilliCommer.de)
+[![wcs badge](http://familiecommer.de/files/img/author-wcs-blue.svg)](http://WilliCommer.de)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 > 
